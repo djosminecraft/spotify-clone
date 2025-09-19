@@ -8,6 +8,7 @@
 </div>
 
 <div align="center">
+  <img src="assets/images/spotify-clone-screenshot.png" alt="Spotify Clone Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
   <h3>🎶 A fully functional Spotify clone with modern UI/UX and smooth audio playback</h3>
   <p><strong>Live Demo:</strong> <a href="https://djosminecraft.github.io/spotify-clone/">https://djosminecraft.github.io/spotify-clone/</a></p>
   <p><strong>🚀 Try it now:</strong> <a href="https://djosminecraft.github.io/spotify-clone/" target="_blank">Open Live Site</a></p>
@@ -56,13 +57,13 @@ Experience the full functionality:
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x500/1DB954/FFFFFF?text=Home+Page" alt="Home Page" width="400" />
-  <img src="https://via.placeholder.com/800x500/1DB954/FFFFFF?text=Player+Interface" alt="Player Interface" width="400" />
+  <img src="assets/images/spotify-clone-screenshot.png" alt="Spotify Clone - Home Page" width="900" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <p><em>🎵 Full-featured Spotify Clone with modern UI and audio playback</em></p>
 </div>
 
 <div align="center">
+  <img src="https://via.placeholder.com/800x500/1DB954/FFFFFF?text=Player+Interface" alt="Player Interface" width="400" />
   <img src="https://via.placeholder.com/800x500/1DB954/FFFFFF?text=Library+View" alt="Library View" width="400" />
-  <img src="https://via.placeholder.com/800x500/1DB954/FFFFFF?text=Search+Page" alt="Search Page" width="400" />
 </div>
 
 ---
