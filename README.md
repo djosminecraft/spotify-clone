@@ -9,8 +9,22 @@
 
 <div align="center">
   <h3>🎶 A fully functional Spotify clone with modern UI/UX and smooth audio playback</h3>
-  <p><strong>Live Demo:</strong> <a href="https://yourusername.github.io/spotify-clone">https://yourusername.github.io/spotify-clone</a></p>
+  <p><strong>Live Demo:</strong> <a href="https://djosminecraft.github.io/spotify-clone/">https://djosminecraft.github.io/spotify-clone/</a></p>
+  <p><strong>🚀 Try it now:</strong> <a href="https://djosminecraft.github.io/spotify-clone/" target="_blank">Open Live Site</a></p>
 </div>
+
+---
+
+## 🎯 Live Demo
+
+**🚀 [Try the Spotify Clone Now!](https://djosminecraft.github.io/spotify-clone/)**
+
+Experience the full functionality:
+- 🎵 **Play real music** with HTML5 audio
+- 🎨 **Spotify-like interface** with dark theme
+- 📱 **Responsive design** for all devices
+- ⚡ **Fast loading** with Vite optimization
+- 🔄 **Smooth animations** and transitions
 
 ---
 
@@ -78,7 +92,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/djosminecraft/spotify-clone.git
    cd spotify-clone
    ```
 
@@ -307,9 +321,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [@yourusername](https://github.com/yourusername) - your.email@example.com
+**djosminecraft** - [@djosminecraft](https://github.com/djosminecraft) - djosminecraft@example.com
 
-**Project Link:** [https://github.com/yourusername/spotify-clone](https://github.com/yourusername/spotify-clone)
+**Project Link:** [https://github.com/djosminecraft/spotify-clone](https://github.com/djosminecraft/spotify-clone)
+
+**Live Demo:** [https://djosminecraft.github.io/spotify-clone/](https://djosminecraft.github.io/spotify-clone/)
 
 ---
 
