@@ -323,7 +323,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**djosminecraft** - [@djosminecraft](https://github.com/djosminecraft) - djosminecraft@example.com
+**djosminecraft** - [@djosminecraft](https://github.com/djosminecraft) - shellrustyt@gmail.com
 
 **Project Link:** [https://github.com/djosminecraft/spotify-clone](https://github.com/djosminecraft/spotify-clone)
 
