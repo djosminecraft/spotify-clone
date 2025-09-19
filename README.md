@@ -1,4 +1,5 @@
 # 🎵 Spotify Clone - Modern Music Streaming Platform
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/acd4b890-ab0f-4aef-aca6-bde887fb1055" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
